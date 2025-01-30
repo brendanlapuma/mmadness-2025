@@ -1,6 +1,7 @@
 # mmadness-2025
 
 Dataset description (and download): https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data
+Nate Silver's 2024 odds (download these and put in the same folder as above): https://www.kaggle.com/datasets/tztang/ml-mania-2024
 
 1. Make a virtual environment (add to gitignore if needed)
 
