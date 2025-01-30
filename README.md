@@ -23,4 +23,7 @@ brew install libomp
 
 2. 2023 1st place
 - Uses gradient-boosted decision trees (actually training a model)
-- Generates every possible matchup in all of cbb (which was the submission format for that year)
+- Generates every possible matchup in all of cbb (which was the submission format for that year)'
+
+
+Code to simulate n brackets using previous years' submission format: https://www.kaggle.com/code/lennarthaupts/simulate-n-brackets/notebook
