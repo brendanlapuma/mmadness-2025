@@ -26,4 +26,10 @@ brew install libomp
 - Generates every possible matchup in all of cbb (which was the submission format for that year)'
 
 
+**Used Strategy**
+
+- 2025_notebook contains the current strategy, heavily based on the 2023 winner's gradient-boosted random forest
+- simulate-n-brackets contains the logic to create simulated brackets by using the probabilities generated in submission.csv as weighted coin flips
+
+
 Code to simulate n brackets using previous years' submission format: https://www.kaggle.com/code/lennarthaupts/simulate-n-brackets/notebook
