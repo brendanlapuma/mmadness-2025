@@ -29,7 +29,11 @@ brew install libomp
 **Used Strategy**
 
 - 2025_notebook contains the current strategy, heavily based on the 2023 winner's gradient-boosted random forest
+- Make sure to skim the notebook and update years where necessary (find the 2025s and change to the updated year, etc).
+- If data formatting gets changed by Kaggle, this will break.
+
 - simulate-n-brackets contains the logic to create simulated brackets by using the probabilities generated in submission.csv as weighted coin flips
+- It also generates and saves a (currently slightly odd-looking) visual representation of one bracket
 
 
 Code to simulate n brackets using previous years' submission format: https://www.kaggle.com/code/lennarthaupts/simulate-n-brackets/notebook
